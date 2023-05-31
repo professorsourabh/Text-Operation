@@ -1,5 +1,6 @@
 {
-  "homepage": "https://professorsourabh.github.io/react-hello",
+  
+  "homepage": "."
   "name": "react-practice",
   "version": "0.1.0",
   "private": true,
