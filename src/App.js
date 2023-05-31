@@ -32,6 +32,7 @@ function App() {
     document.body.style.backgroundColor="#1f1c1c";
     showAlert("Dark mode has been enabled","success");
     document.title='Hello-Dark Mode';
+    console.log("heelooo");
     }
     else{
       setMode('light');
